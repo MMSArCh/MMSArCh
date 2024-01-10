@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmsarch&show_icons=true&locale=en" alt="mmsarch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsarch&" alt="mmsarch" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MMSArCh&" alt="MMSArCh" /></p>
