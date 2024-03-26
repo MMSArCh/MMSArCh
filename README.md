@@ -1,13 +1,7 @@
 <h2 align="left">Hi 👋! My name is Chris and I'm a Cloud Engineer from Hamburg</h2>
+<p align="left">I am part of the MediaMarktSaturn IaaS Ops Team, which provides Server infrastructure within the GCP to colleagues from other Teams</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMSArCh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
+<h3 align="left">Here are some tools i worked with in the past</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -42,10 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
 </div>
 
-###
+<br>
+<h3 align="left">Take a look at my current stats:</h3> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMSArCh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<br>
+<img src="https://streak-stats.demolab.com?user=MMSArCh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-<br clear="both">
 
-![snake gif](https://github.com/MMSArCh/MMSArCh/blob/output/github-contribution-grid-snake.svg)
-
-###
+<h2>Kind regards and happy coding!</h2>
