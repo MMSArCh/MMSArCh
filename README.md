@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="[(https://github.com/MMSArCh/MMSArCh/blob/output/github-contribution-grid-snake.gif]" alt="Snake animation" />
+<img src="[https://github.com/MMSArCh/MMSArCh/blob/output/github-contribution-grid-snake.gif]" alt="Snake animation" />
 
 ###
